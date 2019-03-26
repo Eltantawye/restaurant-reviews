@@ -1,6 +1,7 @@
 # Restaurant Reviews
 [UDACITY](https://www.udacity.com) FEND Project .
-## installation
+
+## Installation
 ### From inside app directory, launch a local client server using Python from your terminal:
 * Python 2: `python -m SimpleHTTPServer 8000`
 * Python 3: `python3 -m http.server 8000`
