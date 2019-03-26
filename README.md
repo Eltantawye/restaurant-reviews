@@ -13,7 +13,11 @@
 * Implement accessibility features in the site HTML .
 * Adding a Service Worker script .
 
-## screenshot
+## screenshots
 
 ![Screenshot_2019-03-26 Restaurant Reviews](https://user-images.githubusercontent.com/26147983/54963044-ec8ae300-4f6f-11e9-9ed1-f7352b083d2c.jpg)
+
+
+![Screenshot_2019-03-26 Restaurant Info(2)](https://user-images.githubusercontent.com/26147983/54963404-5fe12480-4f71-11e9-91f7-74094b2c6b61.png)
+
 
